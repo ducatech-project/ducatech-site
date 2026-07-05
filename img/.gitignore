@@ -1,0 +1,4 @@
+# so o logo.png vai pro repo; brutos/variantes ficam locais
+*
+!.gitignore
+!logo.png
